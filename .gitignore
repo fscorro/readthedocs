@@ -1,0 +1,18 @@
+# Default ignored files
+/.idea
+.DS_Store
+node_modules
+.tmp
+.sass-cache
+.idea
+*.iml
+target/
+target/**
+bower_components
+vendor
+*.log
+logfile
+*.classpath
+*.project
+.settings
+.factorypath
